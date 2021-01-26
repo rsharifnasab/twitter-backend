@@ -1,7 +1,7 @@
 package user
 
 import (
-	"github.com/xesina/golang-echo-realworld-example-app/model"
+	"github.com/rsharifnasab/twitter-backend/model"
 )
 
 type Store interface {

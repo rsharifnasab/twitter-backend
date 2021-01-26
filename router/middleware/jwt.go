@@ -6,7 +6,7 @@ import (
 
 	"github.com/dgrijalva/jwt-go"
 	"github.com/labstack/echo/v4"
-	"github.com/xesina/golang-echo-realworld-example-app/utils"
+	"github.com/rsharifnasab/twitter-backend/utils"
 )
 
 type (

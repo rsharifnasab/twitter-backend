@@ -7,7 +7,7 @@ import (
 
 	"github.com/jinzhu/gorm"
 	_ "github.com/jinzhu/gorm/dialects/sqlite"
-	"github.com/xesina/golang-echo-realworld-example-app/model"
+	"github.com/rsharifnasab/twitter-backend/model"
 )
 
 func New() *gorm.DB {

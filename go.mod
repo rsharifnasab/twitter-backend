@@ -1,4 +1,4 @@
-module github.com/xesina/golang-echo-realworld-example-app
+module github.com/rsharifnasab/twitter-backend
 
 go 1.12
 
