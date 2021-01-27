@@ -22,3 +22,7 @@ vendor/
 
 # ignore default binary name generated with Makefile
 twitter-backend
+
+# ctags 
+tags
+*/tags
